@@ -1,0 +1,32 @@
+body {
+    background-color: #d7d7d7;
+    color: black;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#TopHead{
+    background-color: #0E0E52;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+    width: auto;
+    height: 50px;
+    color:#d7d7d7
+}
+#style{
+    margin: 20px;
+}
+#centre{
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    justify-content: center;
+}
+#border_card{
+    border-style: solid;
+    border-color: #71929b;
+    box-shadow: transparent;
+    box-sizing: border-box;
+}
